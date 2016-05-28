@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A8 Diary</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="diary_title">Diary title</string>
+    <string name="diary_content">Content</string>
+    <string name="error_empty_title">Title is verplicht</string>
+    <string name="error_empty_content">Content is verplicht</string>
+    <string name="add_diary_btn">Toevoegen</string>
+</resources>

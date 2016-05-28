@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">A9 Reddit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ask_reddit">Ask reddit</string>
+    <string name="funny">Funny</string>
+    <string name="pics">Pics</string>
+    <string name="worldnews">Worldnews</string>
+    <string name="til">TIL</string>
+    <string name="gaming">Gaming</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="refresh">refresh</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/subreddit_askReddit"
+            android:title="@string/ask_reddit" />
+        <item android:id="@+id/subreddit_funny" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/funny" />
+        <item android:id="@+id/subreddit_pics" android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="@string/pics" />
+        <item android:id="@+id/subreddit_worldnews" android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/worldnews" />
+        <item android:id="@+id/subreddit_til" android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/til" />
+        <item android:id="@+id/subreddit_gaming" android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/gaming" />
+    </group>
+
+</menu>
